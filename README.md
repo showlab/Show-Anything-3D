@@ -4,6 +4,8 @@ Edit and Generate Anything in 3D world!
 
 The motivation of this repo: Segment Anything offers powerful perception capabilities and interfaces with points and boxes. We believe that the interface ability has the potential to greatly drive the development of generation and editing applications in 3D world. We will be posting some application developments from our lab here that are compatible with both Segment Anything and Generation, thanks.
 
+We will combine different SAM with different 3D models to show some amazing applications!
+
 # Anything with EG3D
 
 We combine SAM with EG3D model to generate the view consistency video of any person in one image. We choose HFGI3D model to inverse the latent code and generate the video. 
